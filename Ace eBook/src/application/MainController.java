@@ -57,7 +57,7 @@ public class MainController extends Application implements Initializable {
     }
 
     /***
-     * @author Jaskirat Singh Grewal, Prince Parihar, manisha
+     * @author Jaskirat Singh Grewal, Prince Parihar, Harshit
      */
     public void launchRelevantWindow() {
         message.setText("");
